@@ -1,5 +1,6 @@
 name: AutomaticInventory
-main: me.ryanhamshire.AutomaticInventory.AutomaticInventory
+main: me.pugabear.AutomaticInventory.AutomaticInventory
+author: BigScary
 version: 2.7.1
 commands:
    debugai:

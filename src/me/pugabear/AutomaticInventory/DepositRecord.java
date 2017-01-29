@@ -1,7 +1,6 @@
-package me.ryanhamshire.AutomaticInventory;
+package me.pugabear.AutomaticInventory;
 
-class DepositRecord
-{
+public class DepositRecord {
     DepositRecord() {}
     int totalItems = 0;
     boolean destinationFull = false;

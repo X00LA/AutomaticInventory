@@ -1,9 +1,6 @@
-//Copyright 2015 Ryan Hamshire
+package me.pugabear.AutomaticInventory;
 
-package me.ryanhamshire.AutomaticInventory;
-
-public enum Messages
-{
+public enum Messages {
     AutoSortHelp, 
     NoPermissionForFeature, 
     ChestSortEnabled, 
