@@ -243,7 +243,7 @@ public class AIEventHandler implements Listener {
 			return;
 		Material clickedMaterial = clickedBlock.getType();
 
-		if (clickedMaterial != Material.CHEST && clickedMaterial != Material.TRAPPED_CHEST)
+		if (clickedMaterial != Material.CHEST && clickedMaterial != Material.TRAPPED_CHEST && !clickedMaterial.toString().contains("SHULKER_BOX"))
 			return;
 
 		@SuppressWarnings("deprecation")
