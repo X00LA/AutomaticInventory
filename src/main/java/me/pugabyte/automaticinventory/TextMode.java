@@ -1,4 +1,4 @@
-package me.pugabear.AutomaticInventory;
+package me.pugabyte.automaticinventory;
 
 import org.bukkit.ChatColor;
 

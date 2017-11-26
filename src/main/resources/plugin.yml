@@ -1,6 +1,5 @@
 name: AutomaticInventory
-main: me.pugabear.AutomaticInventory.AutomaticInventory
-author: BigScary
+main: me.pugabyte.automaticinventory.AutomaticInventory
 version: 2.7.1
 commands:
    debugai:

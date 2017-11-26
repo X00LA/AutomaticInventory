@@ -1,5 +1,5 @@
 # AutomaticInventory
-Updated to 1.11, includes support for shulker boxes. Feel free to submit an issue if you find one.
+Updated to 1.12, includes support for shulker boxes. Feel free to submit an issue if you find one.
 
 [Download here](http://dl.bn-mc.net/?q=automaticinventory)
 

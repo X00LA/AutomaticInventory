@@ -1,4 +1,4 @@
-package me.pugabear.AutomaticInventory;
+package me.pugabyte.automaticinventory;
 
 import java.util.ArrayList;
 import java.util.Collections;

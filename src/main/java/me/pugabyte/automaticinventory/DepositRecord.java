@@ -1,4 +1,4 @@
-package me.pugabear.AutomaticInventory;
+package me.pugabyte.automaticinventory;
 
 public class DepositRecord {
     DepositRecord() {}
