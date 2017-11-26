@@ -1,6 +1,6 @@
 name: AutomaticInventory
 main: me.pugabyte.automaticinventory.AutomaticInventory
-version: 2.7.1
+version: 2.8
 commands:
    debugai:
       description: Debug command for AutomaticInventory.
